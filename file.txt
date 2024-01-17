@@ -1,1 +1,1 @@
-changes in new-feature branch
+Resolved rebase conflict
